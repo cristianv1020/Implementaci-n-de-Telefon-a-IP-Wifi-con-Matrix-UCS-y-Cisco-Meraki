@@ -1,5 +1,5 @@
 ## Diagramas de topología del laboratorio
-En este Apartado se Subira las topologias diseñadas del proyetco, Topologias como pruebas internas, y post implementacion. 
+En este Apartado se Subira las topologias diseñadas del proyetco, Topologias como pruebas internas, y post implementacion. Las topologias se subiran como archivos PNG, PDF Y el archivo editable visio.
 
 
 ## 🖥 Topología Pruebas
