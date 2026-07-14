@@ -11,7 +11,7 @@ Direccionamiento de Telefonia
 
 Direccionamiento de Swicthes
 
-![Direccionamiento Switches](Direccionamiento%20Switches.png)
+![Direccionamiento Switches](Direccionamiento%20switches.png)
 
 Direccionamiento de Aps
 
