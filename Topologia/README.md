@@ -4,7 +4,7 @@ En este Apartado se Subira las topologias diseñadas del proyetco, Topologias co
 
 ## 🖥 Topología Pruebas
 
-
+![Topología de pruebas](Topologia%20pruebas.png)
 
 ## 🖥 Topología Final
 
