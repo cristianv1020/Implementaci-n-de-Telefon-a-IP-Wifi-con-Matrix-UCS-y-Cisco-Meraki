@@ -7,15 +7,15 @@ En este Apartado se Subira el direccionamiento IP del proyecto.
 
 Direccionamiento de Telefonia
 
-![Direccionamiento Telefonia](Direccionamiento%20Telefonia.jpg)
+![Direccionamiento T](Direccionamiento%20Telefonia.jpg)
 
 Direccionamiento de Swicthes
 
-![Direccionamiento Switches](Direccionamiento%20switches.png)
+![Direccionamiento S](Direccionamiento%20switches.png)
 
 Direccionamiento de Aps
 
-![Direccionamiento APs](Direccionamiento%20APs.png)
+![Direccionamiento A](Direccionamiento%20APs.png)
 
 
 ## 👨‍💻 Autor 
